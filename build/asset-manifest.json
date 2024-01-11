@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/main/portofolio/static/css/main.bc224eba.css",
-    "main.js": "/main/portofolio/static/js/main.cbc71656.js",
-    "static/js/787.b7af92ad.chunk.js": "/main/portofolio/static/js/787.b7af92ad.chunk.js",
-    "static/media/khadijah_market.png": "/main/portofolio/static/media/khadijah_market.3b0ab6321b5a959b40a9.png",
-    "static/media/LPPD_web.png": "/main/portofolio/static/media/LPPD_web.624a7a50839d31ef1a9e.png",
-    "static/media/LPPD_adm.png": "/main/portofolio/static/media/LPPD_adm.25d349fb662a3cbae761.png",
-    "static/media/khadijah_web.png": "/main/portofolio/static/media/khadijah_web.e7562823706784443f26.png",
-    "static/media/coffeeshop.png": "/main/portofolio/static/media/coffeeshop.99737fb153b1e5c996f9.png",
-    "static/media/Vibex.png": "/main/portofolio/static/media/Vibex.12349afba95eb9574c63.png",
-    "static/media/saas.png": "/main/portofolio/static/media/saas.5748d77020694b1ea7d6.png",
-    "static/media/coding.png": "/main/portofolio/static/media/coding.8b6c491028ece8742f32.png",
-    "static/media/ayu.jpeg": "/main/portofolio/static/media/ayu.a0c4bfa6208a0419e065.jpeg",
-    "static/media/resct_js.png": "/main/portofolio/static/media/resct_js.3bf6fb4b18b1f904676d.png",
-    "static/media/css-3.png": "/main/portofolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
-    "static/media/logo.svg": "/main/portofolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/redux.svg": "/main/portofolio/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
-    "index.html": "/main/portofolio/index.html",
-    "main.bc224eba.css.map": "/main/portofolio/static/css/main.bc224eba.css.map",
-    "main.cbc71656.js.map": "/main/portofolio/static/js/main.cbc71656.js.map",
-    "787.b7af92ad.chunk.js.map": "/main/portofolio/static/js/787.b7af92ad.chunk.js.map"
+    "main.css": "/main/static/css/main.bc224eba.css",
+    "main.js": "/main/static/js/main.16c4ff4b.js",
+    "static/js/787.b7af92ad.chunk.js": "/main/static/js/787.b7af92ad.chunk.js",
+    "static/media/khadijah_market.png": "/main/static/media/khadijah_market.3b0ab6321b5a959b40a9.png",
+    "static/media/LPPD_web.png": "/main/static/media/LPPD_web.624a7a50839d31ef1a9e.png",
+    "static/media/LPPD_adm.png": "/main/static/media/LPPD_adm.25d349fb662a3cbae761.png",
+    "static/media/khadijah_web.png": "/main/static/media/khadijah_web.e7562823706784443f26.png",
+    "static/media/coffeeshop.png": "/main/static/media/coffeeshop.99737fb153b1e5c996f9.png",
+    "static/media/Vibex.png": "/main/static/media/Vibex.12349afba95eb9574c63.png",
+    "static/media/saas.png": "/main/static/media/saas.5748d77020694b1ea7d6.png",
+    "static/media/coding.png": "/main/static/media/coding.8b6c491028ece8742f32.png",
+    "static/media/ayu.jpeg": "/main/static/media/ayu.a0c4bfa6208a0419e065.jpeg",
+    "static/media/resct_js.png": "/main/static/media/resct_js.3bf6fb4b18b1f904676d.png",
+    "static/media/css-3.png": "/main/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/logo.svg": "/main/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/redux.svg": "/main/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "index.html": "/main/index.html",
+    "main.bc224eba.css.map": "/main/static/css/main.bc224eba.css.map",
+    "main.16c4ff4b.js.map": "/main/static/js/main.16c4ff4b.js.map",
+    "787.b7af92ad.chunk.js.map": "/main/static/js/787.b7af92ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc224eba.css",
-    "static/js/main.cbc71656.js"
+    "static/js/main.16c4ff4b.js"
   ]
 }
