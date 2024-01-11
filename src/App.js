@@ -8,7 +8,7 @@ function App() {
     <div className="bg-[#10173E] overflow-x-hidden">
       <BrowserRouter>
         <Routes>
-          <Route path="/portofoliio" element={<Home />} />
+          <Route path="/portofolio" element={<Home />} />
         </Routes>
       </BrowserRouter>
     </div>
